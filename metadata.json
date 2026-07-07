@@ -1,0 +1,6 @@
+{
+  "name": "SchoolTrack Pro",
+  "description": "Digital attendance tracking, marks management, and parent-student analytical dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
